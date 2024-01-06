@@ -14,7 +14,7 @@
     "postinstall": "npm run build && cordova prepare"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^1.6.4",
     "cordova": "^6.5.0",
     "cross-env": "^3.1.4",
     "npm": "^5.0.0",
